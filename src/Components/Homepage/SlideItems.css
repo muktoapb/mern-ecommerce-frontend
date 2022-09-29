@@ -1,0 +1,17 @@
+.p-10 {
+    padding: 10px;
+}
+
+.slider-img {
+    width: 100%;
+}
+
+.slider-tittle {
+    font-size: 36px;
+    padding: 5px 0;
+    font-weight: 700;
+}
+
+.slick-next {
+    display: none;
+}
