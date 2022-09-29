@@ -1,9 +1,12 @@
 import React from 'react';
+import Nav from './Nav';
+import Head from './Head';
 
 const Header = () => {
     return (
         <header>
-            <h2>Header</h2>
+            <Head></Head>
+            <Nav></Nav>
         </header>
     );
 };
