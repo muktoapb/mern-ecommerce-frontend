@@ -15,3 +15,14 @@
 .slick-next {
     display: none;
 }
+
+.btn {
+    background: rgb(223, 0, 111);
+    color: white;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 15px 40px;
+    border-radius: 25px;
+    margin: 10px 0;
+}

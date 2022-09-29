@@ -26,6 +26,7 @@ const SlideItems = () => {
                                 <div className='row'>
                                     <h1 className='slider-tittle'>{value.title}</h1>
                                     <p>{value.desc}</p>
+                                    <button className='btn'>Top Tips</button>
                                 </div>
                                 <div className='row'>
                                     <img className='slider-img' src={value.cover} alt='' />

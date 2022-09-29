@@ -1,19 +1,19 @@
 const sliderData = [
     {
         id: 1,
-        title: "50% Off For Your First Shopping",
+        title: "Nature has always cared for us",
         desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
         cover: "./img/Slider_img/chili.png",
     },
     {
         id: 2,
-        title: "50% Off For Your First Shopping",
+        title: "Nature has always cared for us",
         desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
         cover: "./img/Slider_img/onion.png",
     },
     {
         id: 3,
-        title: "50% Off For Your First Shopping",
+        title: "Nature has always cared for us",
         desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
         cover: "./img/Slider_img/broccoli.png",
     },
