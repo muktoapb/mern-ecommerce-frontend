@@ -10,7 +10,9 @@ const Head = () => {
                         <a href="#">Contact</a>
                         <a href="#">Support</a>
                     </div>
-                    <div className="login"></div>
+                    <div className="login">
+                        <a href="#">Login</a>
+                    </div>
                 </div>
             </div>
         </>

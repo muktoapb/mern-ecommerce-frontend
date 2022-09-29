@@ -60,3 +60,14 @@ li {
 .l-text {
   text-align: left;
 }
+
+input,
+button {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.row {
+  width: 50%;
+}
