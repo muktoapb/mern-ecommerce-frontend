@@ -1,0 +1,15 @@
+.header-top {
+    background: rgb(20, 19, 19);
+    padding: 10px 0px;
+}
+
+.contact a {
+    color: white;
+    padding-right: 10px;
+    text-transform: uppercase;
+}
+
+.login a {
+    color: white;
+    text-transform: uppercase;
+}

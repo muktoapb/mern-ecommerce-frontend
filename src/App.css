@@ -22,7 +22,8 @@ h6 {
 }
 
 .container {
-  width: 1440px;
+  max-width: 90%;
+  margin: auto;
 }
 
 .d-flex {
@@ -32,6 +33,41 @@ h6 {
 
 .c-flex {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+}
+
+.f-flex {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.r-text {
+  text-align: right;
+}
+
+.l-text {
+  text-align: left;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.row {
+  width: 50%;
 }
