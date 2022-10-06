@@ -1,11 +1,17 @@
 import React from 'react';
-
+import styled from 'styled-components';
 const Nav = () => {
     return (
         <>
-            <h2>Navigation menu</h2>
+            <NavArea>
+        
+            </NavArea>
         </>
     );
 };
 
 export default Nav;
+
+const NavArea = styled.div`
+
+`;
