@@ -3,15 +3,20 @@ import styled from 'styled-components';
 const Nav = () => {
     return (
         <>
-            <NavArea>
-        
-            </NavArea>
+            <HeaderMain>
+                <Logo>
+                    <img src= alt="" />
+                </Logo>
+                <NavArea></NavArea>
+                <MiniCart></MiniCart>
+            </HeaderMain>
         </>
     );
 };
 
 export default Nav;
 
-const NavArea = styled.div`
-
-`;
+const HeaderMain = styled.div``;
+const Logo = styled.div``;
+const NavArea = styled.div``;
+const MiniCart = styled.div``;
