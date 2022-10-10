@@ -46,6 +46,7 @@ const HeaderMain = styled.div`
 const Logo = styled.div``;
 const NavArea = styled.div`
     ul{
+        justify-content: center;
         list-style: none;
         display: flex;
         gap: 0px 25px;
